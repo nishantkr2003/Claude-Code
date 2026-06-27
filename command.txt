@@ -1,1 +1,18 @@
-hi
+/  slash command  -- builtin commnad that triger automatically some action 
+
+builtin commands
+custom commands
+
+session  (claude -- /exit)  -- have unique id 
+/exit
+claude -r
+/resume
+/rename name
+/btw -- by the way( question not include in context window)
+/export file.name -- save context and in further we can provide this as a context file
+/stats
+
+/insights
+/config  -- change settings
+/permissions
+/voice
