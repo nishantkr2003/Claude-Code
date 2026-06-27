@@ -16,3 +16,4 @@ claude -r
 /config  -- change settings
 /permissions
 /voice
+/compact  -- save context summary in Autocompection 33K token/
